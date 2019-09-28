@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="drinklist"/>
+        <xsd:complexType name="drink">
+            <xsd:sequence>
+                <xsd:element name="product" type="xsd:string"/>
+                <xsd:element name="company" type="xsd:string"/>
+                <xsd:element name="calolie" type="xsd:integer"/>
+                <xsd:element name="carboydorate" type="xsd:integer"/>
+                <xsd:element name="sodium" type="xsd:integer"/>
+            </xsd:sequence>
+        </xsd:complexType>
+</xsd:schema>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="main.xsl"?>
+
+<!--DOCTYPE drinklist[
+<!ELEMENT drinklist(drink+)>
+<!ELEMENT drink(product+,company+,calorie+,carbohydorate+,sodium+)>
+<!ATTLIST product name CDATA #REQUIRED>
+<!ATTLIST company name CDATA #REQUIRED>
+<!ATTLIST calorie name CDATA #REQUIRED>
+<!ATTLIST carbohydorate name CDATA #REQUIRED>
+<!ATTLIST sodium name CDATA #REQUIRED>
+]-->
+
+<drinklist>
+    <drink>
+        <product>コカ・コーラ</product>
+        <company>日本コカ・コーラ</company>
+        <calorie>45</calorie>
+        <carbohydorate>11.3</carbohydorate>
+        <sodium>0</sodium>
+    </drink>
+
+    <drink>
+        <product>ペプシコーラ</product>
+        <company>Suntory</company>
+        <calorie>48</calorie>
+        <carbohydorate>11.9</carbohydorate>
+        <sodium>0</sodium>
+    </drink>
+
+    <drink>
+        <product>キリン午後の紅茶ミルクティー</product>
+        <company>キリン</company>
+        <calorie>37</calorie>
+        <carbohydorate>7.7</carbohydorate>
+        <sodium>0.07</sodium>
+    </drink>
+
+    <drink>
+        <product>リプトンアップルティー</product>
+        <company>Lipton</company>
+        <calorie>29</calorie>
+        <carbohydorate>7.2</carbohydorate>
+        <sodium>0.003-0.006</sodium>
+    </drink>
+</drinklist>
