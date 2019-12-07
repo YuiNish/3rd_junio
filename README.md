@@ -4,7 +4,7 @@
 ## データ構造とアルゴリズム
 作ったもののまとめ  
 ※評価確定後のものなのでパクリ等を行うのはやめておく方が無難  
-[参照先](http://edu.net.c.dendai.ac.jp/ad2/2019/)[]:http://edu.net.c.dendai.ac.jp/ad2/2019/
+[[参照先](http://edu.net.c.dendai.ac.jp/ad2/2019/)]:http://edu.net.c.dendai.ac.jp/ad2/2019/
 
 ## 特別プログラミング
 教科書のプログラムの例
